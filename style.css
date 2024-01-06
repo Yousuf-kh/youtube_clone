@@ -211,7 +211,7 @@ header {
 	border-radius: 10px;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 460px) {
 	.logo {
 		display: none;
 	}
