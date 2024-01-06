@@ -233,4 +233,17 @@ header {
 	.shorts {
 		display: none;
 	}
+
+	.videos {
+		width: 100%;
+	}
+
+	.search {
+		width: 80%;
+	}
+
+	.interest {
+		margin: 0 auto;
+		padding: 10px;
+	}
 }
