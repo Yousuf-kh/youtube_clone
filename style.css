@@ -229,4 +229,8 @@ header {
 	.sidebar {
 		display: none;
 	}
+
+	.shorts {
+		display: none;
+	}
 }
