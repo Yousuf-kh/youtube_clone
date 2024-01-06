@@ -210,3 +210,23 @@ header {
 	width: 100%;
 	border-radius: 10px;
 }
+
+@media (max-width: 400px) {
+	.logo {
+		display: none;
+	}
+
+	.accounts > i {
+		display: none;
+	}
+
+	.lenta {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		gap: 20px;
+	}
+
+	.sidebar {
+		display: none;
+	}
+}
